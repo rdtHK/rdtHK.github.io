@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
-date: 2015-10-10T00:00:00.000Z
+date: {}
 categories: jekyll update
-published: true
+published: false
 ---
+
 
 
 Some changes to see whether or not prose.io is working properly.
