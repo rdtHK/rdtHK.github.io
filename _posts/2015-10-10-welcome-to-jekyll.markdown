@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
-date: {}
+date: 2015-10-11T00:00:00.000Z
 categories: jekyll update
-published: false
+published: true
 ---
 
 
